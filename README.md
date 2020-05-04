@@ -1,3 +1,4 @@
 # hello-world
 This is my first GitHub
-I am interested in Python
+
+I am trying to learn Python.
